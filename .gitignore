@@ -1,0 +1,11 @@
+# MetaTrader build outputs and reports
+*.ex5
+*.xlsx
+*.xls
+*.log
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
